@@ -1,0 +1,15 @@
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\bin\Debug\net6.0\IntroductionOOP.exe
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\bin\Debug\net6.0\IntroductionOOP.deps.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\bin\Debug\net6.0\IntroductionOOP.runtimeconfig.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\bin\Debug\net6.0\IntroductionOOP.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\bin\Debug\net6.0\IntroductionOOP.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.csproj.AssemblyReference.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.AssemblyInfoInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.AssemblyInfo.cs
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.csproj.CoreCompileInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\refint\IntroductionOOP.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\IntroductionOOP.genruntimeconfig.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\IntroductionOOP\obj\Debug\net6.0\ref\IntroductionOOP.dll

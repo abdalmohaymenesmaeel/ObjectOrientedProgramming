@@ -1,0 +1,15 @@
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\bin\Debug\net6.0\StaticVariables.exe
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\bin\Debug\net6.0\StaticVariables.deps.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\bin\Debug\net6.0\StaticVariables.runtimeconfig.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\bin\Debug\net6.0\StaticVariables.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\bin\Debug\net6.0\StaticVariables.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.csproj.AssemblyReference.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.AssemblyInfoInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.AssemblyInfo.cs
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.csproj.CoreCompileInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\refint\StaticVariables.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\StaticVariables.genruntimeconfig.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\StaticVariables\obj\Debug\net6.0\ref\StaticVariables.dll

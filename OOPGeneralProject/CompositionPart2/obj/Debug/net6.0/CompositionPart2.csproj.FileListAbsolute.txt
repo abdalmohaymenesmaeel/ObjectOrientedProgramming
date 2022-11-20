@@ -1,0 +1,15 @@
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\bin\Debug\net6.0\CompositionPart2.exe
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\bin\Debug\net6.0\CompositionPart2.deps.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\bin\Debug\net6.0\CompositionPart2.runtimeconfig.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\bin\Debug\net6.0\CompositionPart2.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\bin\Debug\net6.0\CompositionPart2.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.csproj.AssemblyReference.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.AssemblyInfoInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.AssemblyInfo.cs
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.csproj.CoreCompileInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\refint\CompositionPart2.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\CompositionPart2.genruntimeconfig.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\CompositionPart2\obj\Debug\net6.0\ref\CompositionPart2.dll

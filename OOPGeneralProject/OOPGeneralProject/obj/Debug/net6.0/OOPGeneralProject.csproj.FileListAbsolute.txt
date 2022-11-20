@@ -1,0 +1,15 @@
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\bin\Debug\net6.0\OOPGeneralProject.exe
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\bin\Debug\net6.0\OOPGeneralProject.deps.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\bin\Debug\net6.0\OOPGeneralProject.runtimeconfig.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\bin\Debug\net6.0\OOPGeneralProject.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\bin\Debug\net6.0\OOPGeneralProject.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.csproj.AssemblyReference.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.AssemblyInfoInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.AssemblyInfo.cs
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.csproj.CoreCompileInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\refint\OOPGeneralProject.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\OOPGeneralProject.genruntimeconfig.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\OOPGeneralProject\obj\Debug\net6.0\ref\OOPGeneralProject.dll

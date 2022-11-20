@@ -1,0 +1,15 @@
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\bin\Debug\net6.0\2-LoopsAndArrays.exe
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\bin\Debug\net6.0\2-LoopsAndArrays.deps.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\bin\Debug\net6.0\2-LoopsAndArrays.runtimeconfig.json
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\bin\Debug\net6.0\2-LoopsAndArrays.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\bin\Debug\net6.0\2-LoopsAndArrays.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.csproj.AssemblyReference.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.AssemblyInfoInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.AssemblyInfo.cs
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.csproj.CoreCompileInputs.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\refint\2-LoopsAndArrays.dll
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.pdb
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\2-LoopsAndArrays.genruntimeconfig.cache
+D:\R\2022-2023\term1\Object Oriented Programming\Source-code\OOPGeneralProject\LoopsAndArrays\obj\Debug\net6.0\ref\2-LoopsAndArrays.dll
